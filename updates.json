@@ -1,0 +1,16 @@
+{
+  "addons": {
+    "av3@gd.jonxtech.com": {
+      "updates": [
+        {
+          "version": "4.10",
+          "update_link": "https://jonxtech.com/dev/av3/av3-4.10-fx.xpi"
+        },
+        {
+            "version": "5.0",
+            "update_link": "https://jonxtech.com/dev/av3/av3-5.0-fx.xpi"
+        }
+      ]
+    }
+  }
+}
