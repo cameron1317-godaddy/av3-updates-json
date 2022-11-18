@@ -9,6 +9,10 @@
         {
             "version": "5.0",
             "update_link": "https://cameron1317-godaddy.github.io/av3-updates-json/downloads/av3-5.0-fx.xpi"
+        },
+        {
+            "version": "5.1",
+            "update_link": "https://cameron1317-godaddy.github.io/av3-updates-json/downloads/av3-5.1-fx.xpi"
         }
       ]
     }
