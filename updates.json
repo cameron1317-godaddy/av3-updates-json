@@ -12,7 +12,8 @@
         },
         {
             "version": "5.1",
-            "update_link": "https://cameron1317-godaddy.github.io/av3-updates-json/downloads/av3-5.1-signed-fx.xpi"
+            "update_link": "https://cameron1317-godaddy.github.io/av3-updates-json/downloads/av3-5.1-signed-fx.xpi",
+            "update_hash": "sha256:761f601a3fc7fa2ffc4b9ecb12be1df586d5ce1abd3000f4096d5c2194ae4d5e"
         }
       ]
     }
