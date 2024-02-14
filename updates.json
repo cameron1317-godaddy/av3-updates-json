@@ -1,0 +1,61 @@
+{
+  "addons": {
+    "av3@gd.jonxtech.com": {
+      "updates": [
+        {
+          "version": "4.10",
+          "update_link": "https://cameron1317-godaddy.github.io/av3-updates-json/downloads/av3-4.10-fx.xpi"
+        },
+        {
+            "version": "5.0",
+            "update_link": "https://cameron1317-godaddy.github.io/av3-updates-json/downloads/av3-5.0-fx.xpi"
+        },
+        {
+            "version": "5.1",
+            "update_link": "https://cameron1317-godaddy.github.io/av3-updates-json/downloads/av3-5.1-signed-fx.xpi",
+            "update_hash": "sha256:761f601a3fc7fa2ffc4b9ecb12be1df586d5ce1abd3000f4096d5c2194ae4d5e"
+        },
+        {
+            "version": "5.3",
+            "update_link": "https://cameron1317-godaddy.github.io/av3-updates-json/downloads/av3-5.3-fx-signed.xpi"
+        },
+        {
+            "version": "5.3.2",
+            "update_link": "https://cameron1317-godaddy.github.io/av3-updates-json/downloads/av3-5.3.2-fx-signed.xpi"
+        },
+        {
+            "version": "5.3.4",
+            "update_link": "https://cameron1317-godaddy.github.io/av3-updates-json/downloads/av3-5.3.4-fx-signed.xpi"
+        },
+        {
+            "version": "5.3.5",
+            "update_link": "https://cameron1317-godaddy.github.io/av3-updates-json/downloads/av3-5.3.5-fx-signed.xpi"
+        },
+        {
+            "version": "5.3.8",
+            "update_link": "https://cameron1317-godaddy.github.io/av3-updates-json/downloads/av3-5.3.8-fx-signed.xpi"
+        },
+        {
+            "version": "5.3.9",
+            "update_link": "https://cameron1317-godaddy.github.io/av3-updates-json/downloads/av3-5.3.9-fx-signed.xpi"
+        },
+        {
+            "version": "5.4.0",
+            "update_link": "https://cameron1317-godaddy.github.io/av3-updates-json/downloads/av3-5.4.0-fx-signed.xpi"
+        },
+        {
+            "version": "5.4.2",
+            "update_link": "https://cameron1317-godaddy.github.io/av3-updates-json/downloads/av3-5.4.2-fx-signed.xpi"
+        },
+        {
+            "version": "5.4.3",
+            "update_link": "https://cameron1317-godaddy.github.io/av3-updates-json/downloads/av3-5.4.3-fx-signed.xpi"
+        },
+        {
+            "version": "5.4.4",
+            "update_link": "https://cameron1317-godaddy.github.io/av3-updates-json/downloads/av3-5.4.4-fx-signed.xpi"
+        }
+      ]
+    }
+  }
+}
