@@ -54,6 +54,10 @@
         {
             "version": "5.4.4",
             "update_link": "https://cameron1317-godaddy.github.io/av3-updates-json/downloads/av3-5.4.4-fx-signed.xpi"
+        },
+        {
+            "version": "5.5.1",
+            "update_link": "https://cameron1317-godaddy.github.io/av3-updates-json/downloads/av3-5.5.1-fx-signed.xpi"
         }
       ]
     }
